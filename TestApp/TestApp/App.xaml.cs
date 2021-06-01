@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace Notes
+namespace TestApp
 {
     public partial class App : Application
     {

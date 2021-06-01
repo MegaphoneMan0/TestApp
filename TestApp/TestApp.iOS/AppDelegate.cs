@@ -4,7 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
-using Notes;
+using TestApp;
 
 namespace TestApp.iOS
 {

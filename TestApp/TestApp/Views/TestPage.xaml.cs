@@ -2,7 +2,7 @@
 using System.IO;
 using Xamarin.Forms;
 
-namespace Notes.Views
+namespace TestApp.Views
 {
     public partial class TestPage : ContentPage
     {

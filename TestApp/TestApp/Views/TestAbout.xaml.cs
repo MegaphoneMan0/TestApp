@@ -2,7 +2,7 @@
 using Xamarin.Essentials;
 using Xamarin.Forms;
 
-namespace Notes.Views
+namespace TestApp.Views
 {
     public partial class TestAbout : ContentPage
     {
